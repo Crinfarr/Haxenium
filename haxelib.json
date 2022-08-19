@@ -1,0 +1,21 @@
+{
+    "name": "Haxenium",
+    "url": "https://github.com/Crinfarr/Haxenium",
+    "license": "GPL",
+    "tags": [
+        "web",
+        "sys",
+        "automation",
+        "selenium",
+        "webdriver"
+    ],
+    "description": "Provides a native haxe backend for most webdrivers, following W3 specifications.",
+    "version": "0.0.0",
+    "classPath": "src/",
+    "releasenote": "Initial commit, nothing does anything",
+    "contributors": [
+        "Crinfarr"
+    ],
+    "dependencies": {},
+    "main": ""
+}
